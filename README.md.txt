@@ -1,5 +1,6 @@
 # Human Clarity Institute – Digital Life Survey 2025
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17393881.svg)](https://doi.org/10.5281/zenodo.17393881)
+**Official site:** [https://humanclarityinstitute.com](https://humanclarityinstitute.com)
 
 **Dataset ID:** HCI_2025_DigitalLifeSurvey  
 **Version:** 1.0  
@@ -41,5 +42,6 @@ This dataset has been manually validated against all hero statistics published i
 Verification was performed using the HCI_Data_Verification_Log.xlsx workbook, confirming that all reported percentages and figures match the underlying survey responses within normal rounding precision.  
 The verification process included random spot-checks of question coding, COUNTIF/COUNTIFS formula validation, and cross-dataset consistency checks between the Digital Life and Focus & Distraction surveys.  
 All verification work was completed in October 2025 by the Human Clarity Institute research team.
+
 
 
