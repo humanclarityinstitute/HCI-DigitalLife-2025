@@ -1,6 +1,19 @@
 # Human Clarity Institute – Digital Life Survey 2025
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17393881.svg)](https://doi.org/10.5281/zenodo.17393881)
-**Official site:** [https://humanclarityinstitute.com](https://humanclarityinstitute.com)
+
+## Source and Citation
+
+**Official site:** [https://humanclarityinstitute.com](https://humanclarityinstitute.com)  
+
+**Full reports using this dataset:**  
+- [Digital Fatigue & Energy – Full Report](https://humanclarityinstitute.com/reports/digital-fatigue-and-energy-full-report/)  
+- [Digital Trust – Full Report](https://humanclarityinstitute.com/reports/digital-trust-full-report/)  
+- [Coping & Wellbeing – Full Report](https://humanclarityinstitute.com/reports/coping-and-wellbeing-full-report/)  
+- [Values Discovery – Full Report](https://humanclarityinstitute.com/reports/values-discovery-full-report/)  
+
+**License:** Creative Commons Attribution 4.0 (CC BY 4.0)  
+Please cite as: *Human Clarity Institute (2025). Digital Life 2025 Dataset.*
+
 
 **Dataset ID:** HCI_2025_DigitalLifeSurvey  
 **Version:** 1.0  
@@ -42,6 +55,7 @@ This dataset has been manually validated against all hero statistics published i
 Verification was performed using the HCI_Data_Verification_Log.xlsx workbook, confirming that all reported percentages and figures match the underlying survey responses within normal rounding precision.  
 The verification process included random spot-checks of question coding, COUNTIF/COUNTIFS formula validation, and cross-dataset consistency checks between the Digital Life and Focus & Distraction surveys.  
 All verification work was completed in October 2025 by the Human Clarity Institute research team.
+
 
 
 
