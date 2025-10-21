@@ -4,6 +4,7 @@
 ## Source and Citation
 
 **Official site:** [https://humanclarityinstitute.com](https://humanclarityinstitute.com)  
+**Dataset page:** [https://humanclarityinstitute.com/datasets/digital-life-2025/](https://humanclarityinstitute.com/datasets/digital-life-2025/) 
 
 **Full reports using this dataset:**  
 - [Digital Fatigue & Energy – Full Report](https://humanclarityinstitute.com/reports/digital-fatigue-and-energy-full-report/)  
@@ -55,6 +56,7 @@ This dataset has been manually validated against all hero statistics published i
 Verification was performed using the HCI_Data_Verification_Log.xlsx workbook, confirming that all reported percentages and figures match the underlying survey responses within normal rounding precision.  
 The verification process included random spot-checks of question coding, COUNTIF/COUNTIFS formula validation, and cross-dataset consistency checks between the Digital Life and Focus & Distraction surveys.  
 All verification work was completed in October 2025 by the Human Clarity Institute research team.
+
 
 
 
