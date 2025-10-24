@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "HCI Digital Life Survey 2025",
+  "description": "De-identified survey dataset on digital behaviour, trust, coping, wellbeing, time online, and energy patterns across 1,003 participants in 2025.",
+  "url": "https://humanclarityinstitute.com/datasets/digital-life-2025/",
+  "identifier": "https://doi.org/10.5281/zenodo.17393881",
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.17393881"
+  ],
+  "creator": { "@type": "Organization", "name": "Human Clarity Institute", "url": "https://humanclarityinstitute.com" },
+  "publisher": { "@type": "Organization", "name": "Human Clarity Institute", "url": "https://humanclarityinstitute.com" },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "inLanguage": "en-GB",
+  "distribution": [
+    { "@type": "DataDownload", "encodingFormat": "text/html", "contentUrl": "https://doi.org/10.5281/zenodo.17393881" }
+  ]
+}
