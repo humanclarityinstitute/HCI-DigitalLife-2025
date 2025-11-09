@@ -66,7 +66,7 @@ This dataset is therefore considered **final and integrity-verified** as of the 
 
 ## Data Verification Method (Legacy Audit Process)
 
-This dataset was part of HCI’s first internal verification cycle, conducted before the rollout of the Institute’s standardised 2026 data-validation framework.  
+This dataset was part of HCI’s first internal verification cycle, conducted before the rollout of the Institute’s standardised 2025 data-validation framework.  
 The verification process for this dataset was therefore **manual and analytical**, focusing on internal accuracy and thematic integrity rather than automated schema testing.
 
 ### Process Summary
@@ -81,6 +81,11 @@ This legacy verification process differs from HCI’s current workflow, which no
 3. A reproducible integrity-reporting pipeline used across all new datasets.
 
 While the current dataset remains accurate and stable, it is retained here as a **reference example of HCI’s early verification methodology**.
+
+---
+**Note on Wording:**  
+This dataset includes original survey questions that reference *The Human Aware Institute*, the organisation’s founding name prior to its rebrand as *The Human Clarity Institute (HCI)*.  
+The wording has been retained exactly as presented to participants to preserve historical and data integrity.
 
 
 
